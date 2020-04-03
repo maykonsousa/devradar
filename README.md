@@ -4,7 +4,8 @@
 
 <div align="center">
 
-  #### Aplicação completa para conectar Ongs que precisam de ajuda a usuários dispostos a ajudar
+  #### Aplicação completa para cadastrar desenvolvedores na plataforma web e localizálos no aoo atravpes do mapa de geolocalização.
+  aqui além de ultizarmos o axios para conectar o front á nossa api, uzaos tmb para conecar nossa api à api do Github e assim alimentar o nosso banco com informações como nome, bio e avatar dos devs cadastrados
 
 
   ![](https://img.shields.io/badge/autor-Maykon%20Sousa-brightgreen)
